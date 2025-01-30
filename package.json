@@ -1,7 +1,7 @@
 {
   "name": "hng_0",
   "version": "1.0.0",
-  "description": "",
+  "description": "This API helps retrieve basic informaton. \r To make use of this API locally, follow the step by step guide below.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
