@@ -24,5 +24,5 @@ The server will be listening on port 5000.
 
 ENDPOINTS:
 GET/
-Endpoint url:''
+Endpoint url: https://hng-0-peach.vercel.app/
 Response format: JSON 
