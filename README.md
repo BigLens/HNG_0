@@ -22,7 +22,8 @@ This API was built with express. You can run:
 
 The server will be listening on port 5000.
 
-ENDPOINTS:
-GET/
-Endpoint url: https://hng-0-peach.vercel.app/
-Response format: JSON 
+## ENDPOINTS
+
+**GET /**  
+**Endpoint URL:** [https://hng-0-peach.vercel.app/](https://hng-0-peach.vercel.app/)  
+**Response Format:** JSON
